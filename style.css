@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#instructions {
+    font-family: verdana;
+    font-size: 14px;
+    color: black;
+    border: 1px black dashed;
+    width: 600px;
+}
+
+#instructions a {
+    color: #336699;
+}
+
+#targetDiv {
+    align: center;
+    z-index: 4;
+    color: #FFFFFF;
+    width: 133;
+    font-size: 28px;
+}
+
+input.name {
+    font-size: 20px;
+}
